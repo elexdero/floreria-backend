@@ -9,3 +9,6 @@ export const DB_USER = process.env.DB_USER;
 export const DB_PASS = process.env.DB_PASS;
 export const DB_NAME = process.env.DB_NAME;
 export const DB_PORT = process.env.DB_PORT;
+
+//clave para jwt
+export const TOKEN_SECRET = process.env.TOKEN_SECRET;
